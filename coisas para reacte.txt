@@ -1,0 +1,13 @@
+npx create-react-app 'nomeapp'(criar o projeto react com todas as dependencias)
+
+npm install react-scripts@latest(atualizar react para a versao mais recente)
+
+npm start (iniciar o servidor do react)
+
+npm audit fix --force(serviu pra conseguir usar o uuid)
+
+npm install uuid(biblioteca para gerar id aleatoria)
+
+npm install react-icons --save (serve para conseguir usar icones no react)
+
+npm install react-router-dom (serve para simular varias paginas html no react, como no react é apenas trabalhado com 1 pagina html q se modifica, esse router dom ajuda com isso)
